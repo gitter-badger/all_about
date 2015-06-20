@@ -1,5 +1,7 @@
 # meteor-boilerplate
 
+[![Join the chat at https://gitter.im/Daddyderek/all_about](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Daddyderek/all_about?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A starting point for MeteorJS applications. Includes iron-router, Bootstrap 3, Font Awesome, LESS and more.
 
 * [Included Packages](#included-packages)
